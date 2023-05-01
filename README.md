@@ -1,6 +1,4 @@
 
-## Screenshots
-
 ![App Screenshot](https://user-images.githubusercontent.com/131454111/235517083-0817b054-8b21-421c-ac82-854c2b06c42f.jpg)
 
 
